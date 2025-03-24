@@ -1,0 +1,173 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "imageUrl": "https://www.mrfix.ua/storage/631/f74/33a/product-product-apple-iphone-14-128gb-productred-13679-2000x2000.jpg",
+      "name": "Apple iPhone 14",
+      "count": 5,
+      "size": {
+        "width": 71.5,
+        "height": 146.7
+      },
+      "weight": "172g",
+      "comments": [
+        {
+          "id": 1,
+          "productId": 1,
+          "description": "Great battery life and camera quality!",
+          "date": "10:30 15.03.2023"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "imageUrl": "https://cdn.new-brz.net/app/public/models/SM-S901BZKDSEK/large/w/220801160012026185.webp",
+      "name": "Samsung Galaxy S22",
+      "count": 3,
+      "size": {
+        "width": 70.6,
+        "height": 146
+      },
+      "weight": "168g",
+      "comments": [
+        {
+          "id": 2,
+          "productId": 2,
+          "description": "Compact size with powerful performance",
+          "date": "14:15 20.03.2023"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0557/4429/9142/products/google-pixel-7-proestore-pakistanblack128gbsim-locked-922238.webp?v=1701694247",
+      "name": "Google Pixel 7 Pro",
+      "count": 7,
+      "size": {
+        "width": 76.6,
+        "height": 162.9
+      },
+      "weight": "212g",
+      "comments": [
+        {
+          "id": 3,
+          "productId": 3,
+          "description": "Best Android camera I've ever used!",
+          "date": "09:45 05.04.2023"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "imageUrl": "https://sota.store/image/cache/catalog/Oneplus/OnePlus-11-blk-01-1024x1024.webp",
+      "name": "OnePlus 11",
+      "count": 4,
+      "size": {
+        "width": 74.1,
+        "height": 163.1
+      },
+      "weight": "205g",
+      "comments": []
+    },
+    {
+      "id": 5,
+      "imageUrl": "https://cdn.new-brz.net/app/public/models/MXAT2HC-A/large/w/200404140011282267.webp",
+      "name": "iPad Pro 12.9\"",
+      "count": 2,
+      "size": {
+        "width": 214.9,
+        "height": 280.6
+      },
+      "weight": "682g",
+      "comments": [
+        {
+          "id": 4,
+          "productId": 5,
+          "description": "Perfect for digital artists and professionals",
+          "date": "16:20 10.04.2023"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "imageUrl": "https://hotline.ua/img/tx/511/5116275505.jpg",
+      "name": "Samsung Galaxy Book3 Pro",
+      "count": 6,
+      "size": {
+        "width": 304.4,
+        "height": 203.2
+      },
+      "weight": "1.17kg",
+      "comments": []
+    },
+    {
+      "id": 7,
+      "imageUrl": "https://sota.store/image/cache/catalog/Apple/apple-airpods-max-grey-01-1024x1024.webp",
+      "name": "AirPods Max",
+      "count": 8,
+      "size": {
+        "width": 168.6,
+        "height": 83.4
+      },
+      "weight": "385g",
+      "comments": [
+        {
+          "id": 5,
+          "productId": 7,
+          "description": "Outstanding sound quality and noise cancellation",
+          "date": "11:10 12.04.2023"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "imageUrl": "https://www.samsung-online.com.ua/uploads/shop/products/additional/f352d26e3c48abefe1dec5b550e3e7ed.jpg",
+      "name": "Samsung Galaxy Watch5",
+      "count": 9,
+      "size": {
+        "width": 39.3,
+        "height": 39.3
+      },
+      "weight": "28.7g",
+      "comments": []
+    },
+    {
+      "id": 9,
+      "imageUrl": "https://content.rozetka.com.ua/goods/images/big/325605725.jpg",
+      "name": "Apple Watch Series 8",
+      "count": 12,
+      "size": {
+        "width": 41,
+        "height": 35
+      },
+      "weight": "32g",
+      "comments": [
+        {
+          "id": 6,
+          "productId": 9,
+          "description": "Health tracking features are incredibly accurate",
+          "date": "13:25 18.04.2023"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "imageUrl": "https://fotosale.ua/images/products/53/products.53905.4.b.jpg",
+      "name": "Sony RX100 VII",
+      "count": 3,
+      "size": {
+        "width": 102,
+        "height": 58
+      },
+      "weight": "302g",
+      "comments": [
+        {
+          "id": 7,
+          "productId": 10,
+          "description": "Professional quality photos in a compact body",
+          "date": "15:40 22.04.2023"
+        }
+      ]
+    }
+  ]
+}
